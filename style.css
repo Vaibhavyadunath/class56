@@ -50,6 +50,7 @@ h2 {
     padding: 50px;
     text-align: center;
     font-size: 42px;
+    background: linear-gradient(#FFAFBD 0%, #ffc3a0 100%);
 }
 
 .line {
@@ -83,7 +84,7 @@ p {
 }
 
 .links {
-    float: left;
+    float: right;
     color: #fff;
     padding-top: 5px;
     padding-left: 9px;
